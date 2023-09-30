@@ -1,8 +1,8 @@
 # 9 foundational tokens
 
-Voir (OCT1, AMPK, mTOR)
-Savoir (Cognitive, Decline, Engagement)
-Pourvoir (Sarcopenia, Dynamometer, Pace)
+Voir (OCT1, AMPK, mTOR)   
+Savoir (Cognitive, Decline, Engagement)   
+Pourvoir (Sarcopenia, Dynamometer, Pace)   
 
 1. [Voir](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3398862/#:~:text=After%20hepatic%20uptake%20through%20OCT1,of%20energy%2Dconsuming%20gluconeogenic%20pathway.)/Exhaustion (1)
    - Low Activity (2)
